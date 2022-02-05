@@ -1,8 +1,8 @@
 ## Olá eu sou o Gilherme Lopes!
 <div align="center">
   <a href="https://github.com/guiilopes97">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guiilopes97&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br&title_color=ff0000&icon_color=fcf400&border_color=ff0000&border_radius=5"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiilopes97&layout=compact&langs_count=7&theme=dracula&locale=pt-br&title_color=ff0000&border_color=ff0000&border_radius=5"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guiilopes97&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br&icon_color=fcf400&border_color=ff0000&border_radius=5&title_color=ff0000"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiilopes97&layout=compact&langs_count=7&theme=dracula&locale=pt-br&border_color=ff0000&border_radius=5&title_color=ff0000"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Gui-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
