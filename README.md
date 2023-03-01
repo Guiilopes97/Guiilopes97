@@ -20,7 +20,6 @@
   ##
  
 <div align="center"> 
-  <a href="https://instagram.com/guiilopes97" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-lopes-de-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ![Snake animation](https://github.com/guiilopes97/guiilopes97/blob/output/github-contribution-grid-snake.svg)
