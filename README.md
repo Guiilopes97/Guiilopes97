@@ -1,7 +1,5 @@
 # Olá, eu sou Guilherme Lopes! 👋
 
-## Sobre Mim
-
 Sou um desenvolvedor backend apaixonado por criar soluções robustas e escaláveis. Tenho experiência em diversas tecnologias e frameworks, e estou sempre em busca de aprender coisas novas e enfrentar desafios que me permitam crescer profissionalmente.
 
 ## Tecnologias que eu uso 🛠️
