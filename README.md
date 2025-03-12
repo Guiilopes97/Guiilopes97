@@ -68,7 +68,7 @@ Se você quiser entrar em contato comigo, sinta-se à vontade para me enviar uma
 
 ## Projetos Destacados 🚀
 
-- [Projeto 1](#) - Descrição breve do projeto.
+- [Notes](https://github.com/Guiilopes97/notes) - Sistema web para gerenciar notas pessoais.
 - [Projeto 2](#) - Descrição breve do projeto.
 - [Projeto 3](#) - Descrição breve do projeto.
 
