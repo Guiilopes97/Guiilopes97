@@ -1,9 +1,5 @@
 # Olá, eu sou Guilherme Lopes! 👋
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guiilopes97&show_icons=true&theme=tokyonight&include_all_commits=true">
-</div>
-
 ## Sobre Mim
 
 Sou um desenvolvedor backend apaixonado por criar soluções robustas e escaláveis. Tenho experiência em diversas tecnologias e frameworks, e estou sempre em busca de aprender coisas novas e enfrentar desafios que me permitam crescer profissionalmente.
@@ -41,6 +37,8 @@ Se você quiser entrar em contato comigo, sinta-se à vontade para me enviar uma
 ## Estatísticas do GitHub 📊
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guiilopes97&show_icons=true&theme=tokyonight&include_all_commits=true">
+  &nbsp
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiilopes97&layout=compact&theme=tokyonight">
 </div>
 
