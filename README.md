@@ -67,7 +67,7 @@ Se você quiser entrar em contato comigo, sinta-se à vontade para me enviar uma
 ## Projetos Destacados 🚀
 
 - [Notes](https://github.com/Guiilopes97/notes) - Sistema web para gerenciar notas pessoais.
-- [Projeto 2](#) - Descrição breve do projeto.
+- [MathX](https://github.com/Guiilopes97/mathx) - Sistema web para gerar uma variedade de exercícios de matemática.
 - [Projeto 3](#) - Descrição breve do projeto.
 
 ## Estatísticas do GitHub 📊
