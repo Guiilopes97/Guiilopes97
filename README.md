@@ -66,9 +66,9 @@ Se você quiser entrar em contato comigo, sinta-se à vontade para me enviar uma
 
 ## Projetos Destacados 🚀
 
-- [Notes](https://github.com/Guiilopes97/notes) - Sistema web para gerenciar notas pessoais.
-- [MathX](https://github.com/Guiilopes97/mathx) - Sistema web para gerar uma variedade de exercícios de matemática.
-- [Countries & Capitals](https://github.com/Guiilopes97/countries_and_capitals) -  Jogo web de questionário onde consiste em acertar a capital de cada país.
+- [Notes](https://github.com/Guiilopes97/notes) - (Aula) Sistema web para gerenciar notas pessoais.
+- [MathX](https://github.com/Guiilopes97/mathx) - (Aula) Sistema web para gerar uma variedade de exercícios de matemática.
+- [Countries & Capitals](https://github.com/Guiilopes97/countries_and_capitals) - (Aula) Jogo web de questionário onde consiste em acertar a capital de cada país.
 
 ## Estatísticas do GitHub 📊
 
