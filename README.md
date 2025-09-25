@@ -1,82 +1,47 @@
-# Olá, eu sou Guilherme Lopes! 👋
+# 👋 Olá, eu sou Guilherme Lopes!
 
-Sou um desenvolvedor backend apaixonado por criar soluções robustas e escaláveis. Tenho experiência em diversas tecnologias e frameworks, e estou sempre em busca de aprender coisas novas e enfrentar desafios que me permitam crescer profissionalmente.
+🎯 Desenvolvedor Back-End | Apaixonado por soluções robustas, escaláveis e pela constante evolução profissional.
 
-## Tecnologias que eu uso 🛠️
+---
 
-<div style="display: flex; align-items: center; flex-wrap: wrap; gap: 10px;">
-  <div style="display: flex; align-items: center;">
-    <img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <span>HTML5</span>
-  </div>
-  <div style="display: flex; align-items: center;">
-    <img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <span>CSS3</span>
-  </div>
-  <div style="display: flex; align-items: center;">
-    <img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    <span>C#</span>
-  </div>
-  <div style="display: flex; align-items: center;">
-    <img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <span>JavaScript</span>
-  </div>
-  <div style="display: flex; align-items: center;">
-    <img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <span>Python</span>
-  </div>
-  <div style="display: flex; align-items: center;">
-    <img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-    <span>PHP</span>
-  </div>
-  <div style="display: flex; align-items: center;">
-    <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-    <span>MySQL</span>
-  </div>
-  <div style="display: flex; align-items: center;">
-    <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
-    <span>PostgreSQL</span>
-  </div>
-  <div style="display: flex; align-items: center;">
-    <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg">
-    <span>Laravel</span>
-  </div>
-  <div style="display: flex; align-items: center;">
-    <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
-    <span>Visual Studio</span>
-  </div>
-  <div style="display: flex; align-items: center;">
-    <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <span>VS Code</span>
-  </div>
-  <div style="display: flex; align-items: center;">
-    <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-    <span>Bootstrap</span>
-  </div>
-</div>
+## 🚀 Sobre mim
 
-## Contato 📫
+- 👨‍💻 Busco desafios em desenvolvimento backend, integração de APIs e automação de processos.
+- 📚 Sempre em aprendizado: de novas linguagens à frameworks modernos.
 
-Se você quiser entrar em contato comigo, sinta-se à vontade para me enviar uma mensagem no LinkedIn ou por email.
+---
 
-<div> 
-  <a href="https://www.linkedin.com/in/guilherme-lopes-de-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/guiilopes97/" target="_blank"><img src="https://img.shields.io/badge/-Instragram-e95950?style=for-the-badge&logoColor=white" target="_blank"></a> 
-</div>
+## 🛠️ Tecnologias & Ferramentas
 
-## Projetos Destacados 🚀
+HTML5 · CSS3 · JavaScript · C# · Python · PHP · Laravel  · PowerBI
+SQL · MySQL · PostgreSQL · VS Code · Visual Studio · Bootstrap
+Tailwind CSS · Windows Server · Linux
 
-- [Notes](https://github.com/Guiilopes97/notes) - (Aula) Sistema web para gerenciar notas pessoais.
-- [MathX](https://github.com/Guiilopes97/mathx) - (Aula) Sistema web para gerar uma variedade de exercícios de matemática.
-- [Countries & Capitals](https://github.com/Guiilopes97/countries_and_capitals) - (Aula) Jogo web de questionário onde consiste em acertar a capital de cada país.
+---
 
-## Estatísticas do GitHub 📊
+## 🌟 Projetos em destaque
 
-<div style="display: flex; gap: 20px;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guiilopes97&show_icons=true&theme=tokyonight&include_all_commits=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiilopes97&layout=compact&theme=tokyonight">
-</div>
+- **Notes** — Sistema web para gerenciar notas pessoais (Em Aula).
+- **MathX** — Plataforma para atividades matemáticas automatizadas (Em Aula).
+- **API_Infracoes** — Consulta automatizada de infrações direto do Detran.
+- **Countries & Capitals** — Quiz interativo de capitais mundiais (Em Aula).
+- **ProjetoTCC** — App .NET MAUI para TCC.
 
-## Obrigado por visitar! 🙏
+---
 
-Espero que você tenha gostado do meu perfil. Sinta-se à vontade para explorar meus repositórios e entrar em contato se tiver alguma dúvida ou proposta de colaboração.
+## 📊 Estatísticas do GitHub
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Guiilopes97&show_icons=true&theme=github_dark)
+
+---
+
+## 📫 Contato
+
+- Linkedin: [Guilherme Lopes](https://www.linkedin.com/in/guilherme-lopes-de-oliveira/)
+- Email: guilhermelopes97@outlook.com
+
+---
+
+> Sinta-se à vontade para explorar meus repositórios, contribuir ou me chamar para colaborarmos em projetos inovadores!
+
+---
