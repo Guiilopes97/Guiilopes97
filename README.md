@@ -93,19 +93,11 @@ Análises de dados, relatórios e dashboards em Power BI integrados a bancos SQL
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Guiilopes97&show_icons=true&theme=github_dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Guiilopes97&layout=compact&theme=github_dark)
-
----
-
 ## 📫 Vamos conversar?
 
 - 🌐 **Portfólio:** [portfolio-gamma-wheat-91.vercel.app](https://portfolio-gamma-wheat-91.vercel.app/)
 - 💼 **LinkedIn:** [Guilherme Lopes de Oliveira](https://www.linkedin.com/in/guilherme-lopes-de-oliveira/)
 - 📧 **Email:** glopes.tech@gmail.com
-- 📍 **Localização:** Guarujá, São Paulo, Brasil
 
 ---
 
