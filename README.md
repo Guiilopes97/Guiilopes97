@@ -93,7 +93,6 @@ Análises de dados, relatórios e dashboards em Power BI integrados a bancos SQL
 
 ## 📫 Vamos conversar?
 
-- 🌐 **Portfólio:** [portfolio-gamma-wheat-91.vercel.app](https://portfolio-gamma-wheat-91.vercel.app/)
 - 💼 **LinkedIn:** [Guilherme Lopes de Oliveira](https://www.linkedin.com/in/guilherme-lopes-de-oliveira/)
 - 📧 **Email:** glopes.tech@gmail.com
 
