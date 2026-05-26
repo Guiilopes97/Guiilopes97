@@ -4,8 +4,6 @@
 
 > Especializado em **APIs**, **Web Scraping**, **Automação** e **Análise de Dados**, com mais de **4 anos de experiência** transformando dados em soluções estratégicas.
 
-🔗 **Portfólio:** [portfolio-gamma-wheat-91.vercel.app](https://portfolio-gamma-wheat-91.vercel.app/)
-
 ---
 
 ## 🚀 Sobre mim
