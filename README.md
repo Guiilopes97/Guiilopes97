@@ -12,7 +12,6 @@
 - 🏗️ Experiência sólida em **SaaS de ponta a ponta**, do levantamento de requisitos ao deploy em produção
 - 🤖 Forte atuação em **automação**, **RPA**, **Web Scraping** e integração de APIs
 - 🏢 Atuação em sistemas críticos para empresas de **consultoria, portuária, tecnologia e agronegócio**
-- 📍 Guarujá, São Paulo, Brasil
 
 ---
 
